@@ -1,7 +1,3 @@
-```
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
-```
-
 **A quick review on logistic regression**
 Logistic regression tries to model the relationship between predictors and the conditional distribution of the response *Y* given the predictors X using a logistic function. 
 
