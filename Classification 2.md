@@ -1,6 +1,11 @@
+```
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+```
+
 **A quick review on logistic regression**
 Logistic regression tries to model the relationship between predictors and the conditional distribution of the response *Y* given the predictors X using a logistic function. 
-$$\log{\frac{P(x)}{1-P(X)}} = \beta_0 + \beta_1X_1 + \beta_2X_2+\dots+\beta_pX_p$$
+
+$\log{\frac{P(x)}{1-P(X)}} = \beta_0 + \beta_1X_1 + \beta_2X_2+\dots+\beta_pX_p$
 
 logistic regression also has several assumptions
 - The predictors are linearly associated with log-odds
