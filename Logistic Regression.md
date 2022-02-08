@@ -1,4 +1,4 @@
-# Machine learning: Classification
+# Logistic Regression
 
 **What is Classification?**
 Linear regression assumes that the response variable is a quantitative variable. But in many situations, the response could be a qualitative variable, such as the status of marriage, gender, and so on. Usually, qualitative variables are referred to as categorical variables. *Using statistical learning methods for predicting qualitative responses is called classification*. 
