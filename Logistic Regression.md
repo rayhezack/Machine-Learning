@@ -1,6 +1,7 @@
 # Logistic Regression
 
 **What is Classification?**
+
 Linear regression assumes that the response variable is a quantitative variable. But in many situations, the response could be a qualitative variable, such as the status of marriage, gender, and so on. Usually, qualitative variables are referred to as categorical variables. *Using statistical learning methods for predicting qualitative responses is called classification*. 
 Also, Classification is one of the supervised learning tasks, meaning that training data we feed to algorithms include both features and labels and that we try to predict the classes based on the features. 
 
@@ -8,6 +9,7 @@ when trying to predict classes of response, we usually prefer not to use linear 
 
 
 **Why we do not use linear regression for classification?**
+
 Well, the question should be clarified. Linear regression can be used but there are some limitations.
 First, **linear regression can be applied in the case of response with only two classes, that is a binary variable.** In this case, we could naturally encode the two classes as 0 and 1. So we could use a linear regression model to represent the probabilities.
 $
